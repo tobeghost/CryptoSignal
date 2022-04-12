@@ -1,0 +1,13 @@
+{
+  "settings": {
+    "update_interval": 300
+  },
+  "pairs": [ "WAVES/USDT" ],
+  "exchanges": [
+    {
+      "name": "binance",
+      "enabled": true,
+      "pairs": [ "USDT" ]
+    }
+  ]
+}
